@@ -1,2 +1,0 @@
-# ahtopol-web
-ahtopol-web
