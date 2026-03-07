@@ -276,7 +276,7 @@
     "witsec-search": false,
     "witsec-white-label": true,
     "site_lang": "bg",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
